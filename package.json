@@ -1,0 +1,22 @@
+{
+  "name": "emperor-succession-vue",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vue-flow/background": "^1.3.0",
+    "@vue-flow/controls": "^1.1.0",
+    "@vue-flow/core": "^1.33.0",
+    "dom-to-image-more": "^3.7.2",
+    "html-to-image": "^1.11.13",
+    "html2canvas": "^1.4.1",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
